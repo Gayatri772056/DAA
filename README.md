@@ -21,8 +21,7 @@ Statement: Given a number n. The task is to find the smallest
 number whose factorial contains at least n trailing zeroes.
 Input : n = 1 Output : 5
 Input : n = 6 Output : 25
-
-#Greedy Stategy
+#Greedy Stategy Algorithm Problems
 2. Implement a problem of maximize Profit by trading stocks
 based on given rate per day.
 Statement: Given an array arr[] of N positive integers which
