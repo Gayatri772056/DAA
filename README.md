@@ -1,2 +1,2 @@
-#Divide and conquer Algorithm Problems.
-#Greedy Stategy Algorithm Problems
+Divide and conquer Algorithm Problems.
+Greedy Stategy Algorithm Problems
